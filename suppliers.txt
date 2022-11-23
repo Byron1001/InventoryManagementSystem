@@ -1,0 +1,20 @@
+Supplier name: KAP Safety Supplies(M)Sdn Bhd
+Supplier code: KAP
+Tel.No: 03-80621760
+Address: 11,Jalan TPP 1/1,Taman Perindustrian Puchong,47100 Puchong,Selangor.
+
+Supplier name: MODESCO Sdn Bhd
+Supplier code: MOD
+Tel.No: 03-3332333
+Address: 25-2,Jalan Simfoni 1 Balakong,43300 Seri Kembangan,Selangor.
+
+Supplier name: Safetylab Sdn Bhd
+Supplier code: SFL
+Tel.No: 03-89254088
+Address: 26 GF,Jalan 15/1f,Seksyen 15,43650 Bandar Baru Bangi,Selangor.
+
+Supplier name: Blue Eagle Safety International Sdn Bhd
+Supplier code: BES
+Tel.No: 03-38853237
+Address: No.19,Jalan Bayi Tinggi 2,KS6,Batu Unjur,41200 Klang Selangor.
+

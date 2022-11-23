@@ -1,0 +1,20 @@
+Hospital name: General hospital Kuala Lumpur
+Hospital code: GHK
+Tel.No: 03-26155555
+Address: Jalan Pahang,50586 Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur.
+
+Hospital name: Pantai hospital Kuala Lumpur
+Hospital code: PHK
+Tel.No: 03-91452888
+Address: 1,Jalan 1/96a,Taman Cheras Mahmur,56100 Kuala Lumpur,Wilayah Persekutuan Kuala Lumpur.
+
+Hospital name: Columbia Asia hospital
+Hospital code: CAH
+Tel.No: 03-79499999
+Address: Lot 69,13 Jalan 13/6,Seksyen 13,46200 Petaling Jaya,Selangor.
+
+Hospital name: Ampang specialist hospital
+Hospital code: ASH
+Tel.No: 03-42895000
+Address: 1,Jalan Mamanda 9,Taman Dato Ahmad Razali,68000 Ampang,Selangor.
+
